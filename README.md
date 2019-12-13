@@ -20,7 +20,7 @@ This starter is a fork of Gatsby Starter Blog, the most popular starter by far â
 
     ```sh
     # create a new Gatsby site using the blog starter
-    gatsby new my-blog-starter https://github.com/thomaswangio/gatsby-personal-starter-blog
+    gatsby new my-blog-starter https://github.com/thomaswang/gatsby-personal-starter-blog
     ```
 
 1.  **Start developing.**
